@@ -7,6 +7,10 @@ Terminal choice selector menu and sub menus
  - FancyOut.py | http://github.com/vindennl48/fancyout
 
 ## How To Use
+```python
+from TermGui import *
+```
+
 The easiest and least painful way to use this
 module is by the following method:
 ```python
