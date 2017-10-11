@@ -71,6 +71,8 @@ To use this inside of your own code, the easiest way is to create a 'while' loop
 
 ## Example Code
 ```python
+from TermGui import *
+
 gui = TermGui({
     'Main Menu':MenuFrame('Main Menu', [
         ['First Choice',  'First Choice'],
